@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Spring Batch in Action",
+    "isbn": "1935182951",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2011-10-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/templier.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Arnaud Cogoluegnes",
+      "Thierry Templier",
+      "Gary Gregory",
+      "Olivier Bazoud"
+    ],
+    "categories": [
+      "In Action"
+    ],
+    "price": 438
+  }
+]

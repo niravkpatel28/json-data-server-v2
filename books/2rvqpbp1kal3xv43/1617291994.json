@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Java 8 in Action",
+    "isbn": "1617291994",
+    "pageCount": 0,
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/urma.jpg",
+    "status": "MEAP",
+    "authors": [
+      "Raoul-Gabriel Urma",
+      "Mario Fusco",
+      "",
+      "Alan Mycroft"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 531
+  }
+]

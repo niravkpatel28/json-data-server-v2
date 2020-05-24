@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Learn Windows PowerShell in a Month of Lunches, Second Edition",
+    "isbn": "1617291080",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2012-11-12T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones3.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Don Jones",
+      "Jeffery D. Hicks"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 379
+  }
+]

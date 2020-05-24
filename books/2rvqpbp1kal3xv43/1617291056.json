@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Kanban in Action",
+    "isbn": "1617291056",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2014-03-04T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hammarberg.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Marcus Hammarberg",
+      "Joakim Sunden"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 703
+  }
+]

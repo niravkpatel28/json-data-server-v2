@@ -1,0 +1,16 @@
+[
+  {
+    "title": "RabbitMQ in Depth",
+    "isbn": "1617291005",
+    "pageCount": 0,
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/roy.jpg",
+    "status": "MEAP",
+    "authors": [
+      "Gavin M. Roy"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 139
+  }
+]

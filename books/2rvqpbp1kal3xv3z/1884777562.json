@@ -1,0 +1,20 @@
+[
+  {
+    "title": "The Awesome Power of Java Beans",
+    "isbn": "1884777562",
+    "pageCount": 500,
+    "publishedDate": {
+      "$date": "1998-05-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rodrigues.jpg",
+    "longDescription": "Build your own bean  Or use one that's ready-made  The Awesome Power of Java Beans provides the details on both. Either way, the power of Java Beans is awesome: once created, your beans run anywhere-- ceven masquerading as an ActiveX control.    The Awesome Power of Java Beans shows you how to use not only BeanBox, but also such tools as VisualAge WebRunner, JBuilder and PowerJ. And there's a wide-ranging selection of completed and tested beans for you to use in your applications    If you're a Java programmer, teacher or student, or if you design software systems using Java Beans, this book will be a valuable resource.",
+    "status": "PUBLISH",
+    "authors": [
+      "Lawrence H. Rodrigues"
+    ],
+    "categories": [
+      "Java"
+    ],
+    "price": 581
+  }
+]

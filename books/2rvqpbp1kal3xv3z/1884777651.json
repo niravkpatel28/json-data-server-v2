@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Distributed Programming with Java",
+    "isbn": "1884777651",
+    "pageCount": 320,
+    "publishedDate": {
+      "$date": "1999-09-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mahmoud.jpg",
+    "longDescription": "Maybe you've seen some books on Java RMI, others on Java and CORBA and still others on mobile agents. Finally, here's one book that covers ALL the popular approaches for developing distributed applications. What's more, the author makes it easy to compare them by using the same set of examples throughout the book.    If you're a developer or systems architect who wants to start building industrial-strength distributed applications in Java, then Distributed Programming with Java is for you!",
+    "status": "PUBLISH",
+    "authors": [
+      "Qusay H. Mahmoud"
+    ],
+    "categories": [
+      "Java"
+    ],
+    "price": 983
+  }
+]

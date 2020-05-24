@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Mondrian in Action",
+    "isbn": "161729098X",
+    "pageCount": 0,
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/back.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "William Back",
+      "Nicholas Goodman",
+      "",
+      "Julian Hyde"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 765
+  }
+]

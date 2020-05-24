@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Ext JS in Action, Second Edition",
+    "isbn": "1617290327",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2014-02-04T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/garcia3.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Jesus Garcia",
+      "Grgur Grisogono",
+      "",
+      "Jacob K. Andresen"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 846
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Big Data",
+    "isbn": "1617290343",
+    "pageCount": 0,
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/marz.jpg",
+    "status": "MEAP",
+    "authors": [
+      "Nathan Marz",
+      "James Warren"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 593
+  }
+]

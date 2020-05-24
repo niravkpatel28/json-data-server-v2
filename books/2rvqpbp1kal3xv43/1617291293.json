@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Scalatra in Action",
+    "isbn": "1617291293",
+    "pageCount": 0,
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/carrero2.jpg",
+    "status": "MEAP",
+    "authors": [
+      "Ivan Porto Carrero",
+      "Ross A. Baker",
+      "Dave Hrycyszyn",
+      "Stefan Ollinger",
+      "",
+      "Jared Armstrong"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 718
+  }
+]

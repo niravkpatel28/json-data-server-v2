@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Power-3D",
+    "isbn": "138412146",
+    "pageCount": 550,
+    "publishedDate": {
+      "$date": "1997-10-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lussier.jpg",
+    "longDescription": "In the past, serious computer graphics programmers generally had to use \"industrial strength\" workstation hardware and software. Now, advanced graphics capabilities have become available in the PC arena. Whether you're a programmer, 3D enthusiast, C++ coder, games developer or animation specialist, POWER-3D will help you with fast, practical 3D implementations in the Windows environments.",
+    "status": "PUBLISH",
+    "authors": [
+      "Kyle Lussier"
+    ],
+    "categories": [
+      "Computer Graphics"
+    ],
+    "price": 442
+  }
+]

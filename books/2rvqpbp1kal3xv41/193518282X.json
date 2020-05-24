@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Liferay in Action",
+    "isbn": "193518282X",
+    "pageCount": 375,
+    "publishedDate": {
+      "$date": "2011-09-20T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sezov.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Richard Sezov",
+      "Jr"
+    ],
+    "categories": [
+      "Internet"
+    ],
+    "price": 665
+  }
+]

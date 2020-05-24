@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Grails in Action, Second Edition",
+    "isbn": "1617290963",
+    "pageCount": 0,
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/gsmith2.jpg",
+    "status": "MEAP",
+    "authors": [
+      "Glen Smith",
+      "Peter Ledbrook"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 635
+  }
+]

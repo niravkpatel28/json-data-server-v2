@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Jaguar Development with PowerBuilder 7",
+    "isbn": "1884777864",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "1999-08-09T00:00:00.000-0700"
+    },
+    "status": "PUBLISH",
+    "authors": [
+      "MIchael Barlotta"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 776
+  }
+]

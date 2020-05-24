@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Client/Server Yellow Pages",
+    "isbn": "1884777082",
+    "pageCount": 280,
+    "publishedDate": {
+      "$date": "1995-01-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lewis.jpg",
+    "shortDescription": "This unique guide covers software products and vendors active in the client/server marketplace. Over 200 products and over 250 vendors are included.",
+    "longDescription": "This unique guide covers software products and vendors active in the client/server marketplace. Over 200 products and over 250 vendors are included. To help you search for the item of interest to you, software products are grouped in categories (e.g., frontend tools, groupware, workflow, remote access, application development, middleware, conferencing software, componentware). Products are ordered alphabetically by name within each category. With each, the company name, product description, price and platform(s) are listed. When available, a product \"rating,\" and pros and cons of the product are provided too.  The vendor section describes company backgrounds and provides contact information, including, when possible, a contact person's name. The author provides an Introduction giving the reader a sense of direction of the industry, as well as a glossary of terms and acronyms to help him navigate the Client Server Yellow Pages.    This book is the result of painstaking and systematic research into the available clienUserver products. It is the only complete such reference to what is currently (1995) available to buy. It is an invaluable source of information for MIS programmers, systems analysts, designers of clienUserver applications, clienUserver project managers, designers and managers of designers of clienUserver systems, and technology officers within small, medium, and large companies.",
+    "status": "PUBLISH",
+    "authors": [
+      "Compiled",
+      "introduced by Ted Lewis"
+    ],
+    "categories": [
+      "Client-Server"
+    ],
+    "price": 299
+  }
+]

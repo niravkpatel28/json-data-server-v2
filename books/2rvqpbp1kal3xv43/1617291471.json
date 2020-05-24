@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Netty in Action",
+    "isbn": "1617291471",
+    "pageCount": 0,
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/maurer.jpg",
+    "status": "MEAP",
+    "authors": [
+      "Norman Maurer",
+      "Courtney Robinson"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 252
+  }
+]

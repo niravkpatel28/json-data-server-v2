@@ -1,0 +1,19 @@
+[
+  {
+    "title": "SCWCD Exam Study Kit",
+    "isbn": "1930110596",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2002-07-01T00:00:00.000-0700"
+    },
+    "status": "PUBLISH",
+    "authors": [
+      "Hanumant Deshmukh",
+      "Jignesh Malavia"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 526
+  }
+]

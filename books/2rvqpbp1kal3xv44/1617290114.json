@@ -1,0 +1,19 @@
+[
+  {
+    "title": "PowerShell and WMI",
+    "isbn": "1617290114",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2012-04-30T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/siddaway2.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Richard Siddaway"
+    ],
+    "categories": [
+      "Microsoft .NET"
+    ],
+    "price": 386
+  }
+]

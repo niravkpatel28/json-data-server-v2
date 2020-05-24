@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Java Foundation Classes",
+    "isbn": "1884777678",
+    "pageCount": 1088,
+    "publishedDate": {
+      "$date": "2001-10-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/drye.jpg",
+    "longDescription": "Java Foundation Classes: Swing Reference is the comprehensive guide to Swing 1.1 and Java 2's Swing package. Written by the programmers that maintain the Internet's Swing FAQ, this book is based on the much enhanced, most recent release of Swing. All documentation in this book is based on the authors' experience with the Swing source code and their digging under the surface to make sure what they are saying is correct. This book offers solid reference material, extensive examples and an introductory tutorial provide programmers with a quick start and ongoing support as their daily Swing reference. The authors have not trusted a single description of the Swing JavaDoc--this book is verified, correct documentation for the Swing library. For programmers wondering which methods are unimplemented or empty, which are synchronized, which throw runtime exceptions, the JavaDoc won't tell them, but this book will.",
+    "status": "PUBLISH",
+    "authors": [
+      "Stephen C. Drye",
+      "William C. Wake"
+    ],
+    "categories": [
+      "Java"
+    ],
+    "price": 754
+  }
+]

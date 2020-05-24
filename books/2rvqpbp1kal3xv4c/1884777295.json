@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Building Secure and Reliable Network Applications",
+    "isbn": "1884777295",
+    "pageCount": 591,
+    "publishedDate": {
+      "$date": "1996-01-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/birman.jpg",
+    "shortDescription": "\"... tackles the difficult problem of building reliable distributed computing systems in a way that not only presents the principles but also describes proven practical solutions.\" --John Warne, BNR Europe",
+    "longDescription": "As the \"network is the computer\" slogan becomes reality so reliability and security of networked applications become more important. Not only are hospitals, air traffic control systems, and telephone networks becoming more networked, but business applications are increasingly based on the open world of the Internet. Stability in the face of minor accidents, software or hardware failures, or outright attack has become vital. This book provides a structured approach to the technologies currently available for building reliable solutions to these problems.    Building Secure and Reliable Network Applications reviews the most important network technologies from a security and reliability perspective and discusses the most effective solutions with an eye towards their application to real-world systems. Any computing professional who works with networked software will find this book valuable in understanding security and reliability vulnerabilities and how to address them.",
+    "status": "PUBLISH",
+    "authors": [
+      "Kenneth P. Birman"
+    ],
+    "categories": [
+      "Networking",
+      "Theory"
+    ],
+    "price": 170
+  }
+]

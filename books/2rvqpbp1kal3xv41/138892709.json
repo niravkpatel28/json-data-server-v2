@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Multiprotocol over ATM",
+    "isbn": "138892709",
+    "pageCount": 341,
+    "publishedDate": {
+      "$date": "1998-03-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/schmidt.jpg",
+    "shortDescription": "With the detailed coverage of the entire set of protocols in Multiprotocol over ATM, you can be equal to the task.",
+    "longDescription": "Networks constructed with current ATM protocol design standards exceed by far former network capabilities. Unfortunately, this new ATM power and flexibility come at the cost of greater complexity. With the detailed coverage of the entire set of protocols in Multiprotocol over ATM, you can be equal to the task. If you're a network manager or designer, responsible for planning, building, or managing an enterprise or campus network, this book is for you.",
+    "status": "PUBLISH",
+    "authors": [
+      "Andrew Schmidt",
+      "Daniel Minoli"
+    ],
+    "categories": [
+      "Internet",
+      "Networking"
+    ],
+    "price": 105
+  }
+]

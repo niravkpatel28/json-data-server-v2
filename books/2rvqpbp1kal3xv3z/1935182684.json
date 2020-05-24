@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Mahout in Action",
+    "isbn": "1935182684",
+    "pageCount": 375,
+    "publishedDate": {
+      "$date": "2011-10-05T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/owen.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Sean Owen",
+      "Robin Anil",
+      "Ted Dunning",
+      "",
+      "Ellen Friedman"
+    ],
+    "categories": [
+      "Java"
+    ],
+    "price": 767
+  }
+]

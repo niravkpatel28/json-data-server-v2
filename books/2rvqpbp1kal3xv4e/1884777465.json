@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Advanced OWL 5.0",
+    "isbn": "1884777465",
+    "pageCount": 570,
+    "publishedDate": {
+      "$date": "1998-01-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/neward2.jpg",
+    "shortDescription": "Advanced OWL 5.0 covers advanced ways to make the OWL library do those tricky things you thought weren't possible. You'll get a long, exhaustive look at the new features introduced by the OWL 5.0 code. You'll find detailed explanations of how to extend the OWL objects themselves in new directions.",
+    "longDescription": "Are you an OWL programmer who'd like to know more about the new, largely undocumented features of OWL 5.0  Here's a book that covers advanced ways to make the OWL library do those tricky things you thought weren't possible. You'll get a long, exhaustive look at the new features introduced by the OWL 5.0 code. You'll find detailed explanations of how to extend the OWL objects themselves in new directions. If you're an OWL developer who is beyond the \"OWL for Dummies\" level, this book will show you how to obtain all the potential your OWL applications have for power, elegance and flexibility. ",
+    "status": "PUBLISH",
+    "authors": [
+      "Ted Neward"
+    ],
+    "categories": [
+      "Programming"
+    ],
+    "price": 771
+  }
+]

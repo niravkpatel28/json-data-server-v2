@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Illustrated Guide to HTTP",
+    "isbn": "138582262",
+    "pageCount": 400,
+    "publishedDate": {
+      "$date": "1997-03-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hethmon.jpg",
+    "longDescription": "If you're interested in building a web server -- or if you're developing an application that depends or will depend on current HTTP protocols -- Illustrated Guide to HTTP is for you! It covers the latest HTTP/1.1 protocol standard as found in RFC 2068 and RFC 2069. Any programmer, developer or web manager involved in web-related software needs this book to keep up with this dynamic area.",
+    "status": "PUBLISH",
+    "authors": [
+      "Paul S. Hethmon"
+    ],
+    "categories": [
+      "Internet"
+    ],
+    "price": 799
+  }
+]

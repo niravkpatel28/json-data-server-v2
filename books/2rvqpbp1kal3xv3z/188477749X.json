@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Java Network Programming, Second Edition",
+    "isbn": "188477749X",
+    "pageCount": 860,
+    "publishedDate": {
+      "$date": "1999-05-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hughes.jpg",
+    "longDescription": "The first edition of Java Network Programming was acclaimed by readers as an outstanding networking reference. It provided complete details of the Java platform's support for networking and I/O with extensive API coverage and sophisticated examples.    This second edition is strengthened with complete coverage of JDK 1.2 and many more practical examples. Unlike other books in the field, Java Network Programming, 2nd Edition goes well beyond simple examples to show how to develop robust, efficient real-world applications.    What's inside:        * Introduction to networking and Internet protocols      * Complete coverage of the Java networking and I/O APIs      * Details of multithreading and exception handling      * Byte, Character, Object and Message streams      * IP, TCP, UDP, Multicast, HTTP, DNS, RMI, CORBA and Servlets      * Finger, DNS, HTTP, and ping clients and servers      * Multiprotocol chat systems & whiteboards ",
+    "status": "PUBLISH",
+    "authors": [
+      "Merlin Hughes",
+      "Michael Shoffner",
+      "",
+      "Derek Hamner"
+    ],
+    "categories": [
+      "Java"
+    ],
+    "price": 341
+  }
+]

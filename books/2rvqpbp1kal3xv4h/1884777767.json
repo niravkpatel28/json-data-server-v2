@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Practical LotusScript",
+    "isbn": "1884777767",
+    "pageCount": 512,
+    "publishedDate": {
+      "$date": "1999-05-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/patton.jpg",
+    "longDescription": "Practical LotusScript covers the LotusScript programming language like no other book on the market. It starts with the core languge and proceeds to cover the specifics of Lotus Notes in complete detail. Advanced topics include report generation, working with the web, Office 97 integration, and 5.0 enhancements.  Practical LotusScript is designed for:    Lotus Notes developers, both experienced and inexperienced  Visual Basic programmers looking to get up to speed in the Notes environment  any developer wanting more information on the Notes/Domino development environment  ",
+    "status": "PUBLISH",
+    "authors": [
+      "Anthony Patton"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "price": 403
+  }
+]

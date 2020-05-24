@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Tapestry in Action",
+    "isbn": "1932394117",
+    "pageCount": 580,
+    "publishedDate": {
+      "$date": "2004-03-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lewisship.jpg",
+    "longDescription": "Many web development frustrations can be traced back to the underlying stateless HTTP protocol. Tapestry represents state and behavior as standard Java objects, methods and properties. That means state management and multithreading are handled by the framework, leaving you with just your application's business logic. Tapestry does more, you do less.    Tapestry in Action is the definitive guide to the Tapestry approach: creating full-featured web apps by connecting framework components to economical amounts of application code. Many simple examples show you how to tackle common tasks such as form validation, application localization, client-side scripting, and synchronization between browser and app server. Later chapters discuss more advanced topics including creation of new components and integration with J2EE.    If you want to create great web applications using Tapestry and know Java (plus plain-vanilla HTML and a little XML), this book is for you.",
+    "status": "PUBLISH",
+    "authors": [
+      "Howard M. Lewis Ship"
+    ],
+    "categories": [
+      "Java",
+      "Internet"
+    ],
+    "price": 856
+  }
+]

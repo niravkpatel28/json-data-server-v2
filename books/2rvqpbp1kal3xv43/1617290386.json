@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Unit Testing in C++",
+    "isbn": "1617290386",
+    "pageCount": 0,
+    "status": "PUBLISH",
+    "authors": [
+      "Bruce Trask",
+      "Angel Roman"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 705
+  }
+]

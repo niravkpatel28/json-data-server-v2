@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Microsoft Office Essentials",
+    "isbn": "132623129",
+    "pageCount": 480,
+    "publishedDate": {
+      "$date": "1996-07-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/richardson2.jpg",
+    "shortDescription": "Microsoft Office Essentials simply covers the things you really want to know and skips over all those esoteric features that 99 out of 100 readers never use.",
+    "longDescription": "Many books on Microsoft Office try to cover every feature of the software. You don't use every feature, though. Microsoft Office Essentials simply covers the things you really want to know and skips over all those esoteric features that 99 out of 100 readers never use.    You will learn, among other things, how to use:    - Microsoft Office Manager and Shortcut Bar  - Word's formatting tools -- templates, styles, and wizards  - Word to create newsletters, reports, etc.  - Word and Excel together, capitalizing on the strengths of both  - Excel to create simple workbooks for such tasks as balancing your checkbook or preparing a budget  - Excel to display your data with charts  - Powerpoint to develop a presentation that combines words and clip-art images    Once you get to know Microsoft Office Essentials you'll want to keep it within easy reach of you computer...",
+    "status": "PUBLISH",
+    "authors": [
+      "Ronny Richardson"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "price": 472
+  }
+]

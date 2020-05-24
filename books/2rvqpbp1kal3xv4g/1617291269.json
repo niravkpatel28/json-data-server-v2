@@ -1,0 +1,19 @@
+[
+  {
+    "title": "iOS in Practice",
+    "isbn": "1617291269",
+    "pageCount": 325,
+    "publishedDate": {
+      "$date": "2013-11-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cahill.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Bear P. Cahill"
+    ],
+    "categories": [
+      "Mobile Technology"
+    ],
+    "price": 642
+  }
+]

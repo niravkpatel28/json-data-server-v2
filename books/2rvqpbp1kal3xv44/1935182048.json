@@ -1,0 +1,28 @@
+[
+  {
+    "title": "SQL Server MVP Deep Dives",
+    "isbn": "1935182048",
+    "pageCount": 848,
+    "publishedDate": {
+      "$date": "2009-11-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/nielsen.jpg",
+    "shortDescription": "SQL Server MVP Deep Dives is organized into five parts: Design and Architecture, Development, Administration, Performance Tuning and Optimization, and Business Intelligence. In each, you'll find concise, brilliantly clear chapters that take on key topics like mobile data strategies, Dynamic Management Views, or query performance.",
+    "longDescription": "This is no ordinary SQL Server book. In SQL Server MVP Deep Dives, the world's leading experts and practitioners offer a masterful collection of techniques and best practices for SQL Server development and administration. 53 MVPs each pick an area of passionate interest to them and then share their insights and practical know-how with you.    SQL Server MVP Deep Dives is organized into five parts: Design and Architecture, Development, Administration, Performance Tuning and Optimization, and Business Intelligence. In each, you'll find concise, brilliantly clear chapters that take on key topics like mobile data strategies, Dynamic Management Views, or query performance.    WHAT'S INSIDE        * Topics important for SQL Server pros      * Accessible to readers of all levels      * New features of SQL Server 2008    Whether you're just getting started with SQL Server or you're an old master looking for new tricks, this book belongs on your bookshelf.    The authors of this book have generously donated 100% of their royalties to support War Child International.",
+    "status": "PUBLISH",
+    "authors": [
+      "Contributions from 53 SQL Server MVPs",
+      "Edited by Paul Nielsen",
+      "Kalen Delaney",
+      "Greg Low",
+      "Adam Machanic",
+      "Paul S. Randal",
+      "",
+      "Kimberly L. Tripp"
+    ],
+    "categories": [
+      "Microsoft .NET"
+    ],
+    "price": 925
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Client/Server Applications on ATM Networks",
+    "isbn": "137353006",
+    "pageCount": 350,
+    "publishedDate": {
+      "$date": "1997-01-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/minoli2.jpg",
+    "shortDescription": "Client/Server Appliactions on ATM Networks discusses ATM as the key technology for transforming the enterprise network from data-only to an integrated data, voice, video, image and multimedia corporate infrastructure.",
+    "longDescription": "Today, to meet the surging demands of client/server company-wide processes--distributed cooperative computing, business/scientific imaging, video conferencing, multimedia, distance learning and many more--corporations are finding they must extend high-speed communications beyond just a few key sites. This book discusses ATM as the key technology for transforming the enterprise network from data-only to an integrated data, voice, video, image and multimedia corporate infrastructure.    Previous books have covered ATM and client/server separately. This book, intended for networking professionals, is unique in its focus on the hows and whys of the inevitable marriage of these two technologies.",
+    "status": "PUBLISH",
+    "authors": [
+      "Daniel Minoli",
+      "Andrew Schmidt"
+    ],
+    "categories": [
+      "Client-Server",
+      "Networking"
+    ],
+    "price": 691
+  }
+]

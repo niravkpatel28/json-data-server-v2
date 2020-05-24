@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Windows PowerShell in Action",
+    "isbn": "1932394907",
+    "pageCount": 576,
+    "publishedDate": {
+      "$date": "2007-02-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/payette.jpg",
+    "shortDescription": "   If all it had going for it was the authoratative pedigree of the writer, it might be worth it, but it's also well-written, well-organized, and thorough, which I think makes it invaluable as both a learning tool and a reference.       Slashdot.org",
+    "longDescription": "Windows has an easy-to-use interface, but if you want to automate it, life can get hard. That is, unless you use PowerShell, an elegant new dynamic language from Microsoft designed as an all-purpose Windows scripting tool. PowerShell lets you script administrative tasks and control Windows from the command line. Because it was specifically developed for Windows, programmers and power-users can now do things in a shell that previously required VB, VBScript, or C#.    Windows PowerShell in Action was written by Bruce Payette, one of the founding members of the Windows PowerShell team, co-designer of the PowerShell language and the principal author of the PowerShell language implementation. From him you will gain a deep understanding of the language and how best to use it, and you'll love his insights into why PowerShell works the way it does.    This book is a tutorial for sysadmins and developers introducing the PowerShell language and its environment. It shows you how to build scripts and utilities to automate system tasks or create powerful system management tools to handle the day-to-day tasks that drive a Windows administrator's life. It's rich in interesting examples that will spark your imagination. The book covers batch scripting and string processing, COM, WMI, and even .NET and WinForms programming.",
+    "status": "PUBLISH",
+    "authors": [
+      "Bruce Payette"
+    ],
+    "categories": [
+      "Microsoft"
+    ],
+    "price": 236
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "EJB 3 in Action",
+    "isbn": "1933988347",
+    "pageCount": 712,
+    "publishedDate": {
+      "$date": "2007-04-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/panda.jpg",
+    "longDescription": "EJB 2 is widely used but it comes at a cost   procedural, redundant code. EJB 3 is a different animal. By adopting a POJO programming model and Java 5 annotations, it dramatically simplifies enterprise development. A cool new feature, its Java Persistence API, creates a standard for object-relational mapping. You can use it for any Java application, whether inside or outside the EJB container. With EJB 3 you will create true object-oriented applications that are easy to write, maintain and extend.    EJB 3 in Action is a fast-paced tutorial for both novice and experienced Java developers. It will help you learn EJB 3 and the JPA quickly and easily. This comprehensive, entirely new EJB 3 book starts with a tour of the EJB 3 landscape. It then moves quickly into core topics like building business logic with session and message-driven beans. You   ll find four full chapters on the JPA along with practical code samples, design patterns, performance tuning tips, and best practices for building and deploying scalable applications.",
+    "status": "PUBLISH",
+    "authors": [
+      "Debu Panda",
+      "Reza Rahman",
+      "Derek Lane"
+    ],
+    "categories": [
+      "Java"
+    ],
+    "price": 964
+  }
+]

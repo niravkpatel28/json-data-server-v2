@@ -1,0 +1,19 @@
+[
+  {
+    "title": "AOP in .NET",
+    "isbn": "1617291145",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2013-06-21T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/groves.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Matthew D. Groves"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 117
+  }
+]

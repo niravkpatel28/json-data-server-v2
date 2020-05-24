@@ -1,0 +1,16 @@
+[
+  {
+    "title": "CORS in Action",
+    "isbn": "161729182X",
+    "pageCount": 0,
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hossain.jpg",
+    "status": "MEAP",
+    "authors": [
+      "Monsur Hossain"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 133
+  }
+]

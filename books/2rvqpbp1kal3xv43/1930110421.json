@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Programming Web Services with Java",
+    "isbn": "1930110421",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2002-10-01T00:00:00.000-0700"
+    },
+    "status": "PUBLISH",
+    "authors": [
+      "Ajamu A. Wesley"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 520
+  }
+]

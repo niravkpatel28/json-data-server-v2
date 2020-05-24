@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Extending and Embedding Perl",
+    "isbn": "1930110820",
+    "pageCount": 384,
+    "publishedDate": {
+      "$date": "2002-08-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jenness.jpg",
+    "longDescription": "Extending and Embedding Perl explains how to expand the functionality and usefulness of the Perl programming language and how to use Perl from C programs. It begins simply but also covers complex issues using real code examples from the Perl source. The book discusses how to write interfaces to C libraries (as well as C++ and Fortran libraries). It shows you how to implement Perl callbacks for C libraries, how to pass Perl hashes and arrays between Perl and C, and how to use the Perl Data Language infrastructure to improve the speed of array operations.    Additionally, the book peers under the hood to see how the Perl programming language really works by looking at the interpreter. The make-up of Perl variables is discussed along with details on how a Perl program is parsed and converted to executable code.",
+    "status": "PUBLISH",
+    "authors": [
+      "Tim Jenness",
+      "Simon Cozens"
+    ],
+    "categories": [
+      "Perl"
+    ],
+    "price": 624
+  }
+]

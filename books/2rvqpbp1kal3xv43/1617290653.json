@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Functional Programming in Scala",
+    "isbn": "1617290653",
+    "pageCount": 0,
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bjarnason.jpg",
+    "status": "MEAP",
+    "authors": [
+      "Paul Chiusano",
+      "Rúnar Bjarnason"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 129
+  }
+]

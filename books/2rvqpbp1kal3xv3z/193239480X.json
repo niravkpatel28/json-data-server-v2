@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Ant in Action",
+    "isbn": "193239480X",
+    "pageCount": 600,
+    "publishedDate": {
+      "$date": "2007-07-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/loughran.jpg",
+    "shortDescription": "The most widely used build tool for Java projects, Ant is cross-platform, extensible, simple, and fast. It scales from small personal projects to large, multi-team enterprise projects. And, most important, it   s easy to learn.",
+    "longDescription": "Ant in Action is a complete guide to using Ant to build, test, redistribute and deploy Java applications. A retitled second edition of the bestselling and award-winning Java Development with Ant, this book contains over 50% new content including:    New Ant 1.7 features  Scalable builds for big projects  Continuous integration techniques  Deployment  Library management  Extending Ant  Whether you are dealing with a small library or a complex server-side system, this book will help you master your build process. By presenting a running example that grows in complexity, the book covers nearly the entire gamut of modern Java application development, including test-driven development and even how to set up your database as part of the deployment.",
+    "status": "PUBLISH",
+    "authors": [
+      "Steve Loughran",
+      "Erik Hatcher"
+    ],
+    "categories": [
+      "Java"
+    ],
+    "price": 747
+  }
+]

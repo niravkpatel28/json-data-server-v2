@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Understanding Enterprise SOA",
+    "isbn": "1932394591",
+    "pageCount": 280,
+    "publishedDate": {
+      "$date": "2005-11-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pulier.jpg",
+    "shortDescription": "\"SOA is real ... Pulier is uniquely qualified to make [it] accessible to the general business audience.\" - Paul Gaffney, Staples, Inc., From the Foreword",
+    "longDescription": "Understanding Enterprise SOA gives technologists and business people an invaluable and until now missing integrated picture of the issues and their interdependencies. You will learn how to think in a big way, moving confidently between technology- and business-level concerns. Written in a comfortable, mentoring style by two industry insiders, the book draws conclusions from actual experiences of real companies in diverse industries, from manufacturing to genome research. It cuts through vendor hype and shows you what it really takes to get SOA to work.    Intended for both business people and technologists, the book reviews core SOA technologies and uncovers the critical human factors involved in deploying them. You will see how enterprise SOA changes the terrain of EAI, B2B commerce, business process management, \"real time\" operations, and enterprise software development in general.",
+    "status": "PUBLISH",
+    "authors": [
+      "Eric Pulier and Hugh Taylor",
+      "Foreword by Paul Gaffney"
+    ],
+    "categories": [
+      "Theory"
+    ],
+    "price": 504
+  }
+]

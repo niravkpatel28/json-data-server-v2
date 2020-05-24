@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Tika in Action",
+    "isbn": "1935182854",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2011-12-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mattmann.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Chris A. Mattmann",
+      "Jukka L. Zitting"
+    ],
+    "categories": [
+      "Java"
+    ],
+    "price": 848
+  }
+]

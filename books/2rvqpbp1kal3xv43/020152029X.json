@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Multimedia Computing",
+    "isbn": "020152029X",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "1993-09-01T00:00:00.000-0700"
+    },
+    "status": "PUBLISH",
+    "authors": [
+      "Matthew E. Hodges"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 343
+  }
+]

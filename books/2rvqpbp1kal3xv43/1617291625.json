@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Elasticsearch in Action",
+    "isbn": "1617291625",
+    "pageCount": 0,
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hinman.jpg",
+    "status": "MEAP",
+    "authors": [
+      "Radu Gheorghe",
+      "Matthew Lee Hinman"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 410
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "JavaServer Faces in Action",
+    "isbn": "1932394125",
+    "pageCount": 744,
+    "publishedDate": {
+      "$date": "2004-11-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mann.jpg",
+    "longDescription": "JavaServer Faces helps streamline your web development through the use of UI components and events (instead of HTTP requests and responses). JSF components (buttons, text boxes, checkboxes, data grids, etc.) live between user requests, which eliminates the hassle of maintaining state. JSF also synchronizes user input with application objects, automating another tedious aspect of web development.    JavaServer Faces in Action is an introduction, a tutorial, and a handy reference. With the help of many examples, the book explains what JSF is, how it works, and how it relates to other frameworks and technologies like Struts, Servlets, Portlets, JSP, and JSTL. It provides detailed coverage of standard components, renderers, converters, and validators, and how to use them to create solid applications. This book will help you start building JSF solutions today.",
+    "status": "PUBLISH",
+    "authors": [
+      "Kito D. Mann"
+    ],
+    "categories": [
+      "Java"
+    ],
+    "price": 369
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "JSTL in Action",
+    "isbn": "1930110529",
+    "pageCount": 480,
+    "publishedDate": {
+      "$date": "2002-07-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bayern.jpg",
+    "longDescription": "JSTL is an important simplification of the Java web platform. With JSTL, page authors can now write dynamic pages using standard HTML-like tags and an easy-to-learn expression language. JSTL is a standard from the Java Community Process, and its expression language will become part of JSP 2.0.    JSTL in Action shows you how to write rich, dynamic web pages without programming. From simple loops to tricky XML processing, every feature of JSTL is covered and exercised in numerous useful examples. Whether you are a novice page author or an experienced Java programmer, this book shows you easy ways to create powerful web sites.    To help readers who don't already have a JSP container run the examples in the book, there's a free companion download here. This bundle contains a ready-to-run JSP container, a JSTL implementation, and all the book's examples.",
+    "status": "PUBLISH",
+    "authors": [
+      "Shawn Bayern"
+    ],
+    "categories": [
+      "Internet"
+    ],
+    "price": 287
+  }
+]

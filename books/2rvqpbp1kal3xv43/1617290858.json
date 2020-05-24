@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Redis in Action",
+    "isbn": "1617290858",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2013-06-18T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/carlson.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Josiah Carlson"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 712
+  }
+]

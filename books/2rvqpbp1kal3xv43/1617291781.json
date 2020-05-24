@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Go in Action",
+    "isbn": "1617291781",
+    "pageCount": 0,
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ketelsen.jpg",
+    "status": "MEAP",
+    "authors": [
+      "Brian Ketelsen",
+      "Erik St. Martin",
+      "",
+      "William Kennedy"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 265
+  }
+]

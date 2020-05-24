@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Scala in Action",
+    "isbn": "1935182757",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2013-04-09T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/raychaudhuri.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Nilanjan Raychaudhuri"
+    ],
+    "categories": [
+      "Java"
+    ],
+    "price": 999
+  }
+]

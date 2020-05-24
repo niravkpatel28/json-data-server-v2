@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Up to Speed with Swing, Second Edition",
+    "isbn": "1884777759",
+    "pageCount": 560,
+    "publishedDate": {
+      "$date": "1999-10-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/gutz2.jpg",
+    "shortDescription": "Now in its Second Edition, Up to Speed with Swing is for you if you want to get on the fast track to Java Swing. The second edition has been extensively updated to cover Java 1.2 with additional code examples and illustrations.",
+    "longDescription": "Now in its Second Edition, Up to Speed with Swing is for you if you want to get on the fast track to Java Swing. The second edition has been extensively updated to cover Java 1.2 with additional code examples and illustrations.    Guided by a master programmer who writes Java for a living, you'll learn Swing from the insider's point of view. Up to Speeed with Swing has one purpose: to save you time mastering Swing. From the basics of Swing to creating a custom look and feel, or from the Model View Controller (MVC) architecture to optimizing your Swing code, this tutorial gives you an understanding of the big picture as well as the experience of working through detailed examples.",
+    "status": "PUBLISH",
+    "authors": [
+      "Steven Gutz"
+    ],
+    "categories": [
+      "Java"
+    ],
+    "price": 410
+  }
+]

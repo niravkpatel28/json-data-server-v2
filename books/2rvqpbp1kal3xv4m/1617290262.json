@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Metaprogramming in .NET",
+    "isbn": "1617290262",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2012-12-31T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hazzard.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Kevin Hazzard",
+      "Jason Bock"
+    ],
+    "categories": [
+      "Microsoft/.NET"
+    ],
+    "price": 183
+  }
+]

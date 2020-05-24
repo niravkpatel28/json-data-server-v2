@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Web Development with JavaServer Pages",
+    "isbn": "1884777996",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2000-05-15T00:00:00.000-0700"
+    },
+    "status": "PUBLISH",
+    "authors": [
+      "Duane K. Fields",
+      "Mark A. Kolb"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 761
+  }
+]

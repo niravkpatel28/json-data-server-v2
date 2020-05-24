@@ -1,0 +1,17 @@
+[
+  {
+    "title": "F# Deep Dives",
+    "isbn": "1617291323",
+    "pageCount": 0,
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/petricek_trelford.jpg",
+    "status": "MEAP",
+    "authors": [
+      "Tomas Petricek",
+      "Phillip Trelford"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 976
+  }
+]

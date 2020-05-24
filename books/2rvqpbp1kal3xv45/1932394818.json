@@ -1,0 +1,21 @@
+[
+  {
+    "title": "C++/CLI in Action",
+    "isbn": "1932394818",
+    "pageCount": 416,
+    "publishedDate": {
+      "$date": "2007-04-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sivakumar.jpg",
+    "shortDescription": "   ... a great resource, an outstanding job, a must-read...        Ayman B. Shoukry, VC++ Team, Microsoft Corporation",
+    "longDescription": "Developers initially welcomed Microsoft   s Managed C++ for .NET, but the twisted syntax made it difficult to use. Its much-improved replacement, C++/CLI, now provides an effective bridge between the native and managed programming worlds. Using this technology, developers can combine existing C++ programs and .NET applications with little or no refactoring. Accessing .NET libraries like Windows Forms, WPF, and WCF from standard C++ is equally easy.    C++/CLI in Action is a practical guide that will help you breathe new life into your legacy C++ programs. The book begins with a concise C++/CLI tutorial. It then quickly moves to the key themes of native/managed code interop and mixed-mode programming. You   ll learn to take advantage of GUI frameworks like Windows Forms and WPF while keeping your native C++ business logic. The book also covers methods for accessing C# or VB.NET components and libraries. Written for readers with a working knowledge of C++.",
+    "status": "PUBLISH",
+    "authors": [
+      "Nishant Sivakumar"
+    ],
+    "categories": [
+      "Microsoft"
+    ],
+    "price": 580
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Subversion in Action",
+    "isbn": "1932394478",
+    "pageCount": 356,
+    "publishedDate": {
+      "$date": "2004-12-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/machols.jpg",
+    "shortDescription": "Learn all about this new open source version control application and why it is replacing CVS as the standard. Examples demonstrate how to customize features to deal with day-to-day problems.",
+    "longDescription": "A new-generation version control tool, Subversion is replacing the current open source standard, CVS. With Subversion's control components you can simplify and streamline the management of your code way beyond what's possible with CVS. For example, with just one powerful feature, Subversion's atomic commit, you can easily track and roll back a set of changes.    Subversion in Action introduces you to Subversion and the concepts of version control. Using production-quality examples it teaches you how Subversion features can be customized and combined to effectively deal with your day-to-day source control problems. You'll learn how to do practical things you cannot do with CVS, like seamlessly renaming and moving files.    The book covers branching and repository control, access control, and much more. It is written not just for release engineers, but also for developers, configuration managers, and system administrators.",
+    "status": "PUBLISH",
+    "authors": [
+      "Jeffrey Machols"
+    ],
+    "categories": [
+      "Java"
+    ],
+    "price": 585
+  }
+]

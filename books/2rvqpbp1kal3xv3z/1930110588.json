@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Java Development with Ant",
+    "isbn": "1930110588",
+    "pageCount": 672,
+    "publishedDate": {
+      "$date": "2002-08-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hatcher.jpg",
+    "shortDescription": "The most widely used build tool for Java projects, Ant is cross-platform, extensible, simple, and fast. It scales from small personal projects to large, multi-team J2EE projects. And, most important, it's easy to learn.",
+    "longDescription": "Java Development with Ant systematically explores what Ant can do, and how to apply it to your project. Whether you are new to Ant, or an experienced user, this book will show you powerful and creative uses for Ant. The book emphasizes basic concepts you need to know to effectively use Ant starting with Ant's XML-driven build process. It leads you step-by-step through everything you need to know to compile, test, package and deploy an application. It then guides you through the maze of more complex situations common in larger projects such as enterprise Java applications and Web Services. With this book you will gain access to a powerful tool to automatically build, test and deploy your Java software, no matter how simple or complex it might be.",
+    "status": "PUBLISH",
+    "authors": [
+      "Erik Hatcher",
+      "Steve Loughran"
+    ],
+    "categories": [
+      "Java",
+      "Internet"
+    ],
+    "price": 706
+  }
+]

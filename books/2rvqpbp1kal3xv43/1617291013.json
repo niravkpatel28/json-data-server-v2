@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Akka in Action",
+    "isbn": "1617291013",
+    "pageCount": 0,
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/roestenburg.jpg",
+    "status": "MEAP",
+    "authors": [
+      "Raymond Roestenburg",
+      "Rob Bakker",
+      "Rob Williams",
+      "Steven Haines"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 568
+  }
+]

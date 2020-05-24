@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Oracle8i Database Administration",
+    "isbn": "1884777783",
+    "pageCount": 543,
+    "publishedDate": {
+      "$date": "1999-11-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/yuhanna.jpg",
+    "longDescription": "Databases are growing larger, and the use of distributed databases is on the rise. Oracle8i Database Administration addresses some of the most common yet complex issues that are faced by DBAs around the world.    Oracle has the largest market share in Database Management software and is the world's second largest software company. This book is designed for for Oracle Database administrators and others who are involved in planning, programming, administration, and implementation of Oracle8 Databases.    Although this book targets intermediate and advanced database administrators, it can also be an invaluable resource to entry-level DBAs, designers and developers, project managers, system administrators, data warehousing professionals or anyone interested in Oracle.    Oracle8i Database Administration uses a Q&A approach that provides in-depth technical solutions. The questions in this book have been compiled from many sources including Oracle forums, the Internet, and the author's personal experiences. The book also examines features that are new in Oracle8.",
+    "status": "PUBLISH",
+    "authors": [
+      "Noel Yuhanna"
+    ],
+    "categories": [
+      "Client-Server",
+      "Networking"
+    ],
+    "price": 890
+  }
+]

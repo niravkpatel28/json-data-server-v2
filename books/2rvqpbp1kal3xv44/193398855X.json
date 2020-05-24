@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Dependency Injection",
+    "isbn": "193398855X",
+    "pageCount": 352,
+    "publishedDate": {
+      "$date": "2009-08-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/prasanna.jpg",
+    "shortDescription": "   If you do large scale java apps, you probably want to have someone on the team have this book.       Michael Neale",
+    "longDescription": "In object-oriented programming, a central program normally controls other objects in a module, library, or framework. With dependency injection, this pattern is inverted   a reference to a service is placed directly into the object which eases testing and modularity. Spring or Google Guice use dependency injection so you can focus on your core application and let the framework handle infrastructural concerns.    Dependency Injection explores the DI idiom in fine detail, with numerous practical examples that show you the payoffs. You'll apply key techniques in Spring and Guice and learn important pitfalls, corner-cases, and design patterns. Readers need a working knowledge of Java but no prior experience with DI is assumed.",
+    "status": "PUBLISH",
+    "authors": [
+      "Dhanji R. Prasanna"
+    ],
+    "categories": [
+      "Microsoft .NET"
+    ],
+    "price": 418
+  }
+]

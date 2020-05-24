@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Algorithms of the Intelligent Web",
+    "isbn": "1933988665",
+    "pageCount": 368,
+    "publishedDate": {
+      "$date": "2009-05-29T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/marmanis.jpg",
+    "longDescription": "Web 2.0 applications are best known for providing a rich user experience, but the parts you can't see are just as important   and impressive. Many Web 2.0 applications use powerful techniques to process information intelligently and offer features based on patterns and relationships in the data that couldn't be discovered manually. Successful examples of these Algorithms of the Intelligent Web include household names like Google Ad Sense, Netflix, and Amazon. These applications use the internet as a platform that not only gathers data at an ever-increasing pace but also systematically transforms the raw data into actionable information.    Algorithms of the Intelligent Web is an example-driven blueprint for creating applications that collect, analyze, and act on the massive quantities of data users leave in their wake as they use the web. You'll learn how to build Amazon- and Netflix-style recommendation engines, and how the same techniques apply to people matches on social-networking sites. See how click-trace analysis can result in smarter ad rotations. With a plethora of examples and extensive detail, this book shows you how to build Web 2.0 applications that are as smart as your users.",
+    "status": "PUBLISH",
+    "authors": [
+      "Haralambos Marmanis",
+      "Dmitry Babenko"
+    ],
+    "categories": [
+      "Web Development"
+    ],
+    "price": 381
+  }
+]

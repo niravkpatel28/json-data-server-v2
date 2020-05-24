@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Lift in Action",
+    "isbn": "1935182803",
+    "pageCount": 450,
+    "publishedDate": {
+      "$date": "2011-11-18T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/perrett.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Timothy Perrett"
+    ],
+    "categories": [
+      "Java"
+    ],
+    "price": 362
+  }
+]

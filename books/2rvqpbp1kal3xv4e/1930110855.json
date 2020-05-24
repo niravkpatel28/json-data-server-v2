@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Programming Mac OS X",
+    "isbn": "1930110855",
+    "pageCount": 384,
+    "publishedDate": {
+      "$date": "2003-01-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/omalley.jpg",
+    "shortDescription": "\"...an effective guide for Unix developers who want accurate information specifically on getting up to speed with Mac OS X and its software development environment, without having to sort through the morass of online information overload. ...If you've been a little skittish about Interface Builder, forget your worries now because the tutorial in the book is very good. ...The projects and examples are thorough and should provide even the most jaded intermediate programmer with a real taste of how challenging and satisfying it can be to code for OSX.\" - KickStartNews.com",
+    "longDescription": "A guide for UNIX developers who want accurate information on getting up to speed with Mac OS X and its software development environment, this book provides programmers all the information they need to understand and use the operating system, its development tools, and key technologies such as Darwin, Cocoa and AppleScript.    Users are introduced to the UNIX-based foundations of Mac OS X and shown how they fit into Mac OS X architecture. Also provided is coverage of both GUI and command-line software development tools, realistic programming examples that developers will encounter, and a discussion of Macintosh-style software development.",
+    "status": "PUBLISH",
+    "authors": [
+      "Kevin O'Malley"
+    ],
+    "categories": [
+      "Programming"
+    ],
+    "price": 743
+  }
+]

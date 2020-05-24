@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Core OWL 5.0",
+    "isbn": "1884777503",
+    "pageCount": 500,
+    "publishedDate": {
+      "$date": "1997-12-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/neward.jpg",
+    "shortDescription": "Core OWL 5.0 dives under the surface and into the OWL source code itself. You'll see what new capabilities OWL 5.0 offers the OWL programmer. You'll gain a deeper understanding of what OWL does on your behalf such as the OWL messaging system and its message maps.",
+    "longDescription": "Are you an OWL programmer frustrated by shallow coverage of OWL topics in current documentation  Core OWL 5.0 takes you well beyond the \"Hello, world\" level. Concentrating on the central features and classes of the OWL framework, this book dives under the surface and into the OWL source code itself. You'll see what new capabilities OWL 5.0 offers the OWL programmer. You'll gain a deeper understanding of what OWL does on your behalf such as the OWL messaging system and its message maps.",
+    "status": "PUBLISH",
+    "authors": [
+      "Ted Neward"
+    ],
+    "categories": [
+      "Programming"
+    ],
+    "price": 809
+  }
+]

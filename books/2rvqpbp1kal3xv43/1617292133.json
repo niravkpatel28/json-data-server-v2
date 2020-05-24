@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Learn SQL Server Administration in a Month of Lunches",
+    "isbn": "1617292133",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2014-05-02T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones5.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Don Jones"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 756
+  }
+]

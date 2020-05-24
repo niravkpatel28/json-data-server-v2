@@ -1,0 +1,25 @@
+[
+  {
+    "title": "SWT/JFace in Action",
+    "isbn": "1932394273",
+    "pageCount": 496,
+    "publishedDate": {
+      "$date": "2004-11-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/scarpino.jpg",
+    "shortDescription": "Guides you through the process of developing Eclipse-based GUIs and shows how to build applications with features your users will love. Packed with examples and no fluff.",
+    "longDescription": "SWT and JFace are Eclipse's graphical libraries. They enable you to build nimble and powerful Java GUIs--but this is only the beginning. With Draw2D and the Graphical Editing Framework, you can go beyond static applications and create full-featured editors. And with the Rich Client Platform, you can build customized workbenches whose capabilities far exceed those of traditional interfaces.    SWT/JFace in Action covers the territory, from simple widgets to complex graphics. It guides you through the process of developing Eclipse-based GUIs and shows how to build applications with features your users will love. The authors share their intimate knowledge of the subject with you in a friendly, readable style.    This book encourages you to learn through action. Each topic provides extensive code to show you how SWT/JFace works in practical applications. Not only do these examples help you understand the subject, they are a working set of programs you can reuse in your own interfaces.",
+    "status": "PUBLISH",
+    "authors": [
+      "Matthew Scarpino",
+      "Stephen Holder",
+      "Stanford Ng",
+      "",
+      "Laurent Mihalkovic"
+    ],
+    "categories": [
+      "Java"
+    ],
+    "price": 822
+  }
+]

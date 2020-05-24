@@ -1,0 +1,23 @@
+[
+  {
+    "title": "GWT in Action, Second Edition",
+    "isbn": "1935182846",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2013-01-21T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/tacy.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Adam Tacy",
+      "Robert Hanson",
+      "Jason Essington",
+      "",
+      "Anna Tökke"
+    ],
+    "categories": [
+      "Java"
+    ],
+    "price": 441
+  }
+]

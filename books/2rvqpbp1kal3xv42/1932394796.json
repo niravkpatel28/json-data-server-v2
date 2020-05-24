@@ -1,0 +1,21 @@
+[
+  {
+    "title": "iText in Action",
+    "isbn": "1932394796",
+    "pageCount": 688,
+    "publishedDate": {
+      "$date": "2006-11-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lowagie.jpg",
+    "shortDescription": "\"I've been using iText for over a year, but I still learnt an awful lot while reading this book.\" --JavaLobby",
+    "longDescription": "Say you need a tool to add dynamic or interactive features to a PDF file and you decide to search on Google for \"Java PDF.\" What do you think you'd find  Why, at the top of the page you'd find \"iText,\" of course. A leading tool for programmatic creation and manipulation of PDF documents, iText is an open source Java library developed and maintained by Bruno Lowagie, the author of this book, with the help of many contributors.    While at the entry level iText is easy to learn, developers find they soon need its more advanced features. Written by the master himself, iText in Action now offers an introduction and a practical guide to the subject--you will gain a sound understanding of the Portable Document Format and how to do interesting and useful things with PDF using iText.    iText in Action introduces iText and lowers the learning curve to its advanced features. Its numerous, valuable examples unlock many of the secrets hidden in Adobe's PDF Reference. The examples are in Java but they can be easily adapted to .NET using one of iText's .NET ports: iTextSharp (C#) or iText.NET (J#).",
+    "status": "PUBLISH",
+    "authors": [
+      "Bruno Lowagie"
+    ],
+    "categories": [
+      "Web Development"
+    ],
+    "price": 614
+  }
+]

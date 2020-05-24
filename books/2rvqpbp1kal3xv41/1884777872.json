@@ -1,0 +1,22 @@
+[
+  {
+    "title": "XML Programming with VB and ASP",
+    "isbn": "1884777872",
+    "pageCount": 320,
+    "publishedDate": {
+      "$date": "1999-12-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/wilson.jpg",
+    "longDescription": "Here's a book that shows you when and how to use XML from both a programming and business perspective. Laden with source code, XML Programming with VB and ASP helps you build solutions that are flexible, future-proof, and self-describing. It will help you apply XML concepts between the client and the server and the server and data objects or data services.    Finally, you have everything a VB and ASP developer needs to keep up with the explosive growth of XML.",
+    "status": "PUBLISH",
+    "authors": [
+      "Mark Wilson",
+      "Tracey Wilson"
+    ],
+    "categories": [
+      "XML",
+      "Internet"
+    ],
+    "price": 847
+  }
+]

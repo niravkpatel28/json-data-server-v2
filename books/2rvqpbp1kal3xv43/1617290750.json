@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Single Page Web Applications",
+    "isbn": "1617290750",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2013-09-19T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mikowski.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Michael S. Mikowski",
+      "Josh C. Powell"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 891
+  }
+]

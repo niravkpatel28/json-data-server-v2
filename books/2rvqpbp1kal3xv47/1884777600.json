@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Internet and Intranet Applications with PowerBuilder 6",
+    "isbn": "1884777600",
+    "pageCount": 390,
+    "publishedDate": {
+      "$date": "2000-12-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cervenka.jpg",
+    "longDescription": "If you're a PowerBuilder programmer, Internet and Intranet Applications with PowerBuilder 6 is your ticket to learning Web.PB and related technologies. The book covers everything you need to know to build web browser and server programs with the PowerBuilder 6 Internet Toolkit. Also covered is how to write winsock programs with PB, and Distributed PB is covered to the extent necessary to learn Web.PB.",
+    "status": "PUBLISH",
+    "authors": [
+      "Tom Cervenka"
+    ],
+    "categories": [
+      "PowerBuilder"
+    ],
+    "price": 598
+  }
+]

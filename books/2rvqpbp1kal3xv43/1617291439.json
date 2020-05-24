@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Hello App Inventor!",
+    "isbn": "1617291439",
+    "pageCount": 0,
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/beer.jpg",
+    "status": "MEAP",
+    "authors": [
+      "Paula Beer",
+      "Carl Simmons"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 791
+  }
+]

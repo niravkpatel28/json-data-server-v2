@@ -1,0 +1,20 @@
+[
+  {
+    "title": "SonarQube in Action",
+    "isbn": "1617290955",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2013-10-30T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/papapetrou.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "G. Ann Campbell",
+      "Patroklos P. Papapetrou"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 891
+  }
+]

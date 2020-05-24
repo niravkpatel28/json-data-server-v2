@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Implementing Elliptic Curve Cryptography",
+    "isbn": "1884777694",
+    "pageCount": 330,
+    "publishedDate": {
+      "$date": "1998-11-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rosing.jpg",
+    "shortDescription": "\"The book provides all the theory and working programs needed to create real applications based on the latest IEEE P1363 standard.\"  --Reviewed in Cryptologia",
+    "longDescription": "Implementing Elliptic Curve Cryptography proceeds step-by-step to explain basic number theory, polynomial mathematics, normal basis mathematics and elliptic curve mathematics. With these in place, applications to cryptography are introduced. The book is filled with C code to illustrate how mathematics is put into a computer, and the last several chapters show how to implement several cryptographic protocols. The most important is a description of P1363, an IEEE draft standard for public key cryptography.    The main purpose of Implementing Elliptic Curve Cryptography is to help \"crypto engineers\" implement functioning, state-of-the-art cryptographic algorithms in the minimum time. With detailed descriptions of the mathematics, the reader can expand on the code given in the book and develop optimal hardware or software for their own applications.    Implementing Elliptic Curve Cryptography assumes the reader has at least a high school background in algebra, but it explains, in stepwise fashion, what has been considered to be a topic only for graduate-level students. ",
+    "status": "PUBLISH",
+    "authors": [
+      "Michael Rosing"
+    ],
+    "categories": [
+      "Theory"
+    ],
+    "price": 756
+  }
+]

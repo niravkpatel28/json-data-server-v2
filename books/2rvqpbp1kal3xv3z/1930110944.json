@@ -1,0 +1,22 @@
+[
+  {
+    "title": "EJB Cookbook",
+    "isbn": "1930110944",
+    "pageCount": 352,
+    "publishedDate": {
+      "$date": "2003-05-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sullins2.jpg",
+    "shortDescription": "\"This book provides a great reference for the average EJB developer. It provides recipes for most common tasks that an EJB developer would need.\" -- Computing Reviews, Nov. 2003",
+    "longDescription": "The EJB Cookbook is a resource for the practicing EJB developer. It is a systematic collection of EJB 'recipes'. Each recipe describes a practical problem and its background; it then shows the code that  solves it, and ends with a detailed discussion.    This unique book is written for developers who want quick, clean, solutions to frequent problems--or simply EJB development ideas. Easy to find recipes range from the common to the advanced. How do you secure a message-driven bean  How do you generate EJB code  How can you improve your entity bean persistence layer ",
+    "status": "PUBLISH",
+    "authors": [
+      "Benjamin G. Sullins",
+      "Mark B. Whipple"
+    ],
+    "categories": [
+      "Java"
+    ],
+    "price": 981
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "title": "The Awesome Power of Direct3D/DirectX",
+    "isbn": "1884777473",
+    "pageCount": 840,
+    "publishedDate": {
+      "$date": "2002-12-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kovach.jpg",
+    "shortDescription": "The Awesome Power of Direct3D/DirectX shows you how to build a complete working 3D application, including 3D sound, joystick input, animation, textures, shadows, and even collision detection.",
+    "longDescription": "If you are programming real-time 3D applications for simulations, games, marketing, demonstrations or computer-animated videos using Microsoft's Direct3D Software Development Kit, this book is for you. Unlike other books, The Awesome Power of Direct3D/DirectX shows you how to build a complete working 3D application, including 3D sound, joystick input, animation, textures, shadows, and even collision detection!    It shows you how to write code using both Retained Mode and Immediate Mode. It does not bury the code in \"wrappers\" that hide the nuances of the SDK. Nothing is hidden.",
+    "status": "PUBLISH",
+    "authors": [
+      "Peter J. Kovach"
+    ],
+    "categories": [
+      "Computer Graphics"
+    ],
+    "price": 698
+  }
+]

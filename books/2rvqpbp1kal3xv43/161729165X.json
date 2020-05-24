@@ -1,0 +1,16 @@
+[
+  {
+    "title": "BDD in Action",
+    "isbn": "161729165X",
+    "pageCount": 0,
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/smart.jpg",
+    "status": "MEAP",
+    "authors": [
+      "John F. Smart"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 173
+  }
+]

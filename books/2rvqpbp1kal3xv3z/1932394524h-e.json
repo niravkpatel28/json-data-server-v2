@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Enhancing Java Core Libraries with BeanUtils and Lang",
+    "isbn": "1932394524h-e",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2005-03-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal8.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Vikram Goyal"
+    ],
+    "categories": [
+      "Java"
+    ],
+    "price": 631
+  }
+]

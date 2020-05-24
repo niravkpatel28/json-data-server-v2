@@ -1,0 +1,16 @@
+[
+  {
+    "title": "D3.js in Action",
+    "isbn": "1617292117",
+    "pageCount": 0,
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/meeks.jpg",
+    "status": "MEAP",
+    "authors": [
+      "Elijah Meeks"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 862
+  }
+]

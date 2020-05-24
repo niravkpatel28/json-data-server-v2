@@ -1,0 +1,21 @@
+[
+  {
+    "title": "WebWork in Action",
+    "isbn": "1932394532",
+    "pageCount": 400,
+    "publishedDate": {
+      "$date": "2005-09-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lightbody.jpg",
+    "longDescription": "The WebWork framework implements a simple command/ business-logic and MVC design. It provides out-of-the-box functionality developers need to build well-designed applications that are modular and reusable. Written by its two primary developers, WebWork in Action is the first book to focus entirely on WebWork. Like a true \"In Action\" book, it is both a tutorial on WebWork and a sourcebook for its use in demanding, real-world applications.    Starting with \"Hello World\" the Webwork way, the book immerses the reader in practical, how-to material. You will soon know how to configure WebWork and gradually and incrementally master the robust and powerful uses of the framework. WebWork in Action uses the same basic, continuing example used in Manning's Hibernate in Action to show how to integrate WebWork with the popular Hibernate persistence framework.",
+    "status": "PUBLISH",
+    "authors": [
+      "Patrick Lightbody",
+      "Jason Carreira"
+    ],
+    "categories": [
+      "internet"
+    ],
+    "price": 114
+  }
+]

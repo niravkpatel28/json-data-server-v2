@@ -1,0 +1,24 @@
+[
+  {
+    "title": "iPhone and iPad in Action",
+    "isbn": "1935182587",
+    "pageCount": 450,
+    "publishedDate": {
+      "$date": "2010-08-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/trebitowski.jpg",
+    "shortDescription": "Using many examples, the book covers core features like accelerometers, GPS, the Address Book, and much more. Along the way, you'll learn to leverage your iPhone skills to build attractive iPad apps. This is a revised and expanded edition of the original iPhone in Action.",
+    "longDescription": "This hands-on tutorial will help you master iPhone/iPad development using the native iPhone SDK. It guides you from setting up dev tools like Xcode and Interface Builder, through coding your first app, all the way to selling in the App Store.    Using many examples, the book covers core features like accelerometers, GPS, the Address Book, and much more. Along the way, you'll learn to leverage your iPhone skills to build attractive iPad apps. This is a revised and expanded edition of the original iPhone in Action.",
+    "status": "PUBLISH",
+    "authors": [
+      "Brandon Trebitowski",
+      "Christopher Allen",
+      "",
+      "Shannon Appelcline"
+    ],
+    "categories": [
+      "Mobile Technology"
+    ],
+    "price": 698
+  }
+]

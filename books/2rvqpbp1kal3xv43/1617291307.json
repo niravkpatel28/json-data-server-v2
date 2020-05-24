@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Gradle in Action",
+    "isbn": "1617291307",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2014-02-18T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/muschko.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Benjamin Muschko"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 252
+  }
+]

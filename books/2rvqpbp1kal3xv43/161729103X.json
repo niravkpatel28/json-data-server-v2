@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Extending jQuery",
+    "isbn": "161729103X",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2013-08-12T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/wood.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Keith B. Wood"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 733
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Inside LotusScript",
+    "isbn": "1884777481",
+    "pageCount": 420,
+    "publishedDate": {
+      "$date": "1997-11-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mcginn.jpg",
+    "shortDescription": "Develop Notes and Domino Web applications by providing advanced LotusScript code for direct use in your programs. This book emphasizes practical, useable code and solutions to common Notes programming problems.",
+    "longDescription": "At last, here's a book that tells you everything that isn't in the Lotus Notes manuals. It's designed to make it easy for you to develop Notes and Domino Web applications by providing advanced LotusScript code for direct use in your programs. It emphasizes practical, useable code and solutions to common Notes programming problems. If you're interested in Internet or Web programming--or if you want to learn Notes programming, from beginner level to advanced, this book is for you!",
+    "status": "PUBLISH",
+    "authors": [
+      "Joe McGinn"
+    ],
+    "categories": [
+      "Business"
+    ],
+    "price": 638
+  }
+]

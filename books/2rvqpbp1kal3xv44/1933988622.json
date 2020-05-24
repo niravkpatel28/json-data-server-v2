@@ -1,0 +1,24 @@
+[
+  {
+    "title": "ASP.NET MVC in Action",
+    "isbn": "1933988622",
+    "pageCount": 392,
+    "publishedDate": {
+      "$date": "2009-09-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/palermo.jpg",
+    "shortDescription": "ASP.NET MVC in Action is a guide to pragmatic MVC-based web development. After a thorough overview, it dives into issues of architecture and maintainability. The book assumes basic knowledge of ASP.NET (v. 3.5) and expands your expertise.",
+    "longDescription": "ASP.NET MVC implements the Model-View-Controller pattern on the ASP.NET runtime. It works well with open source projects like NHibernate, Castle, StructureMap, AutoMapper, and MvcContrib.    ASP.NET MVC in Action is a guide to pragmatic MVC-based web development. After a thorough overview, it dives into issues of architecture and maintainability. The book assumes basic knowledge of ASP.NET (v. 3.5) and expands your expertise. Some of the topics covered:        * How to effectively perform unit and full-system tests.      * How to implement dependency injection using StructureMap or Windsor.      * How to work with the domain and presentation models.      * How to work with persistence layers like NHibernate.    The book's many examples are in C#.",
+    "status": "PUBLISH",
+    "authors": [
+      "Jeffrey Palermo",
+      "Ben Scheirman",
+      "",
+      "Jimmy Bogard"
+    ],
+    "categories": [
+      "Microsoft .NET"
+    ],
+    "price": 478
+  }
+]

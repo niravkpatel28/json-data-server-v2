@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Making Sense of Java",
+    "isbn": "132632942",
+    "pageCount": 180,
+    "publishedDate": {
+      "$date": "1996-06-01T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/simpson.jpg",
+    "shortDescription": "Making Sense of Java clearly and concisely explains the concepts, features, benefits, potential, and limitations of Java.",
+    "longDescription": "The meteoric rise of interest in Java, and the simultaneous rise in Java-related hype, make this book's no-nonsense evaluation essential reading for all levels of professionals, from managers to programmers. Making Sense of Java clearly and concisely explains the concepts, features, benefits, potential, and limitations of Java. It is not a programmer's how-to guide and assumes little technical knowledge, though software developers will find this lucid overview to be a valuable introduction to the possible uses and capabilities of Java.",
+    "status": "PUBLISH",
+    "authors": [
+      "Bruce Simpson",
+      "John Mitchell",
+      "Brian Christeson",
+      "Rehan Zaidi",
+      "",
+      "Jonathan Levine"
+    ],
+    "categories": [
+      "Java",
+      "Business"
+    ],
+    "price": 227
+  }
+]

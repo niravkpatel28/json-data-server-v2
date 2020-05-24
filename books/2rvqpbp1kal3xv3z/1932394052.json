@@ -1,0 +1,22 @@
+[
+  {
+    "title": "XDoclet in Action",
+    "isbn": "1932394052",
+    "pageCount": 624,
+    "publishedDate": {
+      "$date": "2003-11-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/walls.jpg",
+    "longDescription": "Are you tired of writing the same Java code, over and over again  XDoclet will take the burden of repetitive development tasks off your shoulders by automating them. XDoclet is a metadata-driven, code generation engine for Java. Starting from simple JavaDoc-style comments, it generates deployment descriptors, interfaces, framework classes and other utility classes your project requires.    XDoclet in Action is an easy to read introduction to XDoclet and its uses. It is a resource on code generation with this popular open source tool. With many short code examples and a full-scale J2EE example, the book shows you how to use XDoclet with EJBs, Servlets, JMX, and other technologies. You'll also learn how to customize XDoclet beyond its out-of-the-box capabilities to generate code specific to your application.    With this book you will learn how to write less code, how to keep your application components in sync, and how to keep your deployment, interface, utility and other information all in one place.",
+    "status": "PUBLISH",
+    "authors": [
+      "Craig Walls",
+      "Norman Richards"
+    ],
+    "categories": [
+      "XML",
+      "Java"
+    ],
+    "price": 494
+  }
+]

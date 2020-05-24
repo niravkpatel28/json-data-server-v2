@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Getting MEAN with Mongo, Express, Angular, and Node",
+    "isbn": "1617292036",
+    "pageCount": 0,
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sholmes.jpg",
+    "status": "MEAP",
+    "authors": [
+      "Simon Holmes"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 677
+  }
+]

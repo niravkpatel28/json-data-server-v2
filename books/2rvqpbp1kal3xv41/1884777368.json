@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Mobile Agents",
+    "isbn": "1884777368",
+    "pageCount": 320,
+    "publishedDate": {
+      "$date": "1997-03-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cockayne.jpg",
+    "shortDescription": "Mobile Agents is the first book to give the reader the ability to create and use powerful mobile agents on the Internet.",
+    "longDescription": "Mobile Agents is the first book to give the reader the ability to create and use powerful mobile agents on the Internet. The book presents the reality of today's agent technologies and the future that this technology promises. It teaches how to create and deploy the major mobile agent systems (Telescript, Agent Tcl, Ara, Aglets Workbench) and how to solve a variety of problems on the Internet. Each of the chapters was written in collaboration with the original developers of the agent systems.",
+    "status": "PUBLISH",
+    "authors": [
+      "William R. Cockayne and Michael Zyda",
+      "editors"
+    ],
+    "categories": [
+      "Internet"
+    ],
+    "price": 443
+  }
+]

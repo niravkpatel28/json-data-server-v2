@@ -1,0 +1,19 @@
+[
+  {
+    "title": "C# in Depth, Third Edition",
+    "isbn": "161729134X",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2013-09-19T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/skeet3.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Jon Skeet"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 925
+  }
+]

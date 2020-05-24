@@ -1,0 +1,20 @@
+[
+  {
+    "title": "The Joy of Clojure, Second Edition",
+    "isbn": "1617291412",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2014-05-29T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/fogus2.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Michael Fogus",
+      "Chris Houser"
+    ],
+    "categories": [
+      "Miscellaneous"
+    ],
+    "price": 825
+  }
+]

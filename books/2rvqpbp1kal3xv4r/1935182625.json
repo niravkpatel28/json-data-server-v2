@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Generative Art",
+    "isbn": "1935182625",
+    "pageCount": 0,
+    "publishedDate": {
+      "$date": "2011-06-30T00:00:00.000-0700"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pearson.jpg",
+    "status": "PUBLISH",
+    "authors": [
+      "Matt Pearson"
+    ],
+    "categories": [
+      "Algorithmic Art"
+    ],
+    "price": 671
+  }
+]
